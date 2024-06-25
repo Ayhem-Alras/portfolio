@@ -1,0 +1,15 @@
+/* src/components/About.css */
+.about-section {
+    padding: 2em;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  .about-section h2 {
+    margin-bottom: 1em;
+  }
+  
+  .about-section p {
+    margin: 0.5em 0;
+  }
+  

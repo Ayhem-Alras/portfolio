@@ -1,0 +1,24 @@
+/* src/components/Contact.css */
+.contact-section {
+    padding: 2em;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  .contact-section h2 {
+    margin-bottom: 1em;
+  }
+  
+  .contact-section p {
+    margin-bottom: 1em;
+  }
+  
+  .contact-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-section ul li {
+    margin-bottom: 0.5em;
+  }
+  

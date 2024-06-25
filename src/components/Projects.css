@@ -1,0 +1,17 @@
+/* src/components/Projects.css */
+.projects-section {
+    padding: 2em;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .projects-section h2 {
+    margin-bottom: 1em;
+  }
+  
+  .projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
